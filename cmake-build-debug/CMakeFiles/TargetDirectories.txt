@@ -1,0 +1,3 @@
+/Users/altereg0m1/Desktop/C++ Project/FindStartWith/cmake-build-debug/CMakeFiles/FindStartWith.dir
+/Users/altereg0m1/Desktop/C++ Project/FindStartWith/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/altereg0m1/Desktop/C++ Project/FindStartWith/cmake-build-debug/CMakeFiles/rebuild_cache.dir
